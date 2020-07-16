@@ -3,7 +3,7 @@
 ## Motivation
 I prefer dark mode and spend 6h~/day in reading.
 
-but when open local pdf file in chrome, its whole extension(includes dark mode) is prevented from working.
+but when i open local pdf file in chrome, its whole extension(includes dark mode) is prevented from working.
 
 it causes imbalance of illumination.
 
